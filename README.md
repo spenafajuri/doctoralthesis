@@ -15,3 +15,4 @@ ENS 2009-2010 data and questionnaires are available at http://epi.minsal.cl/encu
 AVTK questionnaires and reports are available at: https://thl.fi/fi/tutkimus-ja-kehittaminen/tutkimukset-ja-hankkeet/aikuisten-terveys-hyvinvointi-ja-palvelututkimus-ath/aiemmat-tutkimukset/suomalaisen-aikuisvaeston-terveyskayttaytyminen-ja-terveys-avtk (in Finnish). Data can be requested through the contact person.
 
 
+
